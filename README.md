@@ -16,3 +16,6 @@ Users can interact with CP Assistant by speaking voice commands, initiating conv
 
 ### Technologies Used:
 Flutter, ChatGPT API, DALL·E API, Dart
+
+### Feedback:
+If you have any feedback, please reach out to me at cpmuhammedsinan@gmail.com. Your suggestions are highly appreciated and will contribute to enhancing this CP Assistant app.
